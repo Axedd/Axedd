@@ -1,5 +1,3 @@
-## 👋 Hi, I’m Frederik
-
 I build **apps + backend systems**, and I really enjoy working in **low-level C/C++** - especially for **game/engine development**.
 
 ### 🚀 Highlights
